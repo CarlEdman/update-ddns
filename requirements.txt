@@ -1,2 +1,3 @@
 # pip install -r C:\Users\Carl\DVD\MakeMP4\requirements.txt
-
+cloudflare
+tldextract
